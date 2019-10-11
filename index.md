@@ -1,7 +1,7 @@
 # Research Data Management - Workshop
 
 ## General Info
-|||
+
 |---|---|
 |Venue|The National Library of Latvia, Riga|
 |Date|16 March 2020|
