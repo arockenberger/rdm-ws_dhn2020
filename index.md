@@ -5,7 +5,7 @@
 | .  | . |
 |---|---|
 |Venue|The National Library of Latvia, Riga|
-|Date|16 March 2020|
+|Date|17 March 2020|
 |Instructor|Annika Rockenberger|
 |Co-Instructor|N.N.|
 
