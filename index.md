@@ -7,7 +7,7 @@
 |Venue|The National Library of Latvia, Riga|
 |Date|17 March 2020|
 |Instructor|Annika Rockenberger|
-|Co-Instructor|N.N.|
+|Co-Instructor|Philipp Conzett|
 
 ## About DHN2020 Conference
 
