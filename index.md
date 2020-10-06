@@ -5,9 +5,10 @@
 | .  | . |
 |---|---|
 |Venue|The National Library of Latvia, Riga|
-|Date|17 March 2020|
+|Link|Zoom (via email)|
+|Date|20 October 2020|
+|Time|09:00-12:00 UTC+2|
 |Instructor|Annika Rockenberger|
-|Co-Instructor|Philipp Conzett|
 
 ## About DHN2020 Conference
 
@@ -32,6 +33,3 @@ The workshop will be tailored to a European audience with guidelines and routine
 
 ### Language
 The workshop language is English. All materials, worksheets and instruction will be given in English, participants my bring and work with material in their respective languages, though.
-
-### Workshop Fee
-A small fee of €15 for the workshop is due when registering. The fee covers a lunch as well as coffee/tea, water and snacks. It is non-refundable. 
